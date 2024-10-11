@@ -8,7 +8,7 @@
     color: var(--branco);
     font-weight: 300;
     text-transform: uppercase;
-    
+    margin-bottom: 1em;
 }
 
 .topicos__lista {
@@ -18,12 +18,12 @@
 }
 
 .topicos__item {
-    margin: 2em 0 .5em;
+    margin: 2em 0.5em;
 }
 
 .topicos__link {
     background-color: var(--laranja);
-    padding: 1em;
+    padding: 1em 1.4em;
     color: var(--branco);
     font-size: 14px;
     font-weight: 700;
